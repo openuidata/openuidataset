@@ -46,8 +46,8 @@ In order to upload data to the openUiData set, you have to do a pull request wit
 
 The folder structure is as follows:
 
-./<operating system>/<software name>/<software version>/12hakfna12.jpeg
-./<operating system>/<software name>/<software version>/12hakfna12.JSON
+./"operating system"/"software name"/"software version"/12hakfna12.jpeg
+./"operating system"/"software name"/"software version"/12hakfna12.JSON
 
 ## Instructions for upload
 
@@ -61,6 +61,6 @@ The folder structure is as follows:
 
 5. Commit the nef files into the new branch and Push the changes to github
 
-6. Create a new pull request with the name in the following format: "New data: <operating system>/<software name>/<software version>"
+6. Create a new pull request with the name in the following format: "New data: 'operating system'/'software name'/'software version'"
   
 7.  Wait for your pull request to be approved or to be commented upon.
